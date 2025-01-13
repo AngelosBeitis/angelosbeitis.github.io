@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Angelos's Homepage"
+title                    : "Angelos Beitis"
 title_separator          : "-"
 name                     : &name "Angelos Beitis"
 description              : &description "PhD Researcher"
@@ -27,7 +27,7 @@ author:
   bio              : "PhD Researcher in Network Security"
   location         : "Leuven, Belgium"
   employer         : "KU Leuven"
-  uri              : # URL
+  uri              : https://distrinet.cs.kuleuven.be/people/AngelosBeitis
   email            : "angelos.beitis@kuleuven.be" 
 
   # Academic websites
